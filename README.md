@@ -3,6 +3,9 @@
     
     A react native module to show toast like android, it works on iOS and Android(use ToastAndroid from react-native).
 
+[ ![release](https://img.shields.io/github/release/happydemoney/react-native-rn-toast.svg?style=flat)](https://github.com/happydemoney/react-native-rn-toast/releases)
+[ ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/happydemoney/react-native-rn-toast/pulls)
+[ ![NPM version](https://img.shields.io/npm/v/react-native-rn-toast.svg?style=flat)](https://www.npmjs.com/package/react-native-rn-toast)
 [![License MIT](https://img.shields.io/github/license/happydemoney/react-native-rn-toast.svg)](https://github.com/happydemoney/react-native-rn-toast/blob/master/LICENSE)
 
 ## Getting started
