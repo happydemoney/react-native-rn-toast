@@ -7,10 +7,24 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "toast"
   ],
-  "author": "",
-  "license": "",
+  "author": {
+    "name": "happydemoney",
+    "email": "674425534@qq.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:happydemoney/react-native-rn-toast.git"
+  },
   "peerDependencies": {
     "react-native": "^0.41.2"
   },

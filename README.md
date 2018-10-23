@@ -2,6 +2,9 @@
 # react-native-rn-toast
     
     A react native module to show toast like android, it works on iOS and Android(use ToastAndroid from react-native).
+
+[![License MIT](https://img.shields.io/github/license/happydemoney/react-native-rn-toast.svg)](https://github.com/happydemoney/react-native-rn-toast/blob/master/LICENSE)
+
 ## Getting started
 
 `$ npm install react-native-rn-toast --save`
